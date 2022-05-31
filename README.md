@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OskarWenerowicz
 - 👀 I’m interested in data analysis, data science.
 - 🌱 I’m currently learning python, R, sql and Power BI in data analysis
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/oskar-wenerowicz-91bb57212/
 
 <!---
